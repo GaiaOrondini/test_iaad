@@ -1,2 +1,7 @@
-# test_iaadùdh
-deggj3ede3kdy
+# test_iaad
+
+Appunti Physical Computing 
+
+Lezione 1 
+
+Lezione 2 
